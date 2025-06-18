@@ -34,5 +34,6 @@ int main(void){
     printf("최대값은 %d\n", max);
     printf("최소값은  %d\n", min);
     
+    
     return 0;
 }
